@@ -6,7 +6,7 @@ Kiedy zbierzesz już wszystkie Mag-Małpy możesz kasować ściany. Nie umiałem
 # Obrazy:
 Obrazy zostały przeze mnie namalowane w programie Vectr(https://vectr.com/)
 # Film
-Oto pokaz mojej gry:
+#Oto pokaz mojej gry:
 https://user-images.githubusercontent.com/112761978/218249976-a9d0d96e-12d1-4585-a70e-3c5c20be5eb7.mp4
 
 
